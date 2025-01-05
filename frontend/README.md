@@ -36,7 +36,7 @@ This is the frontend application for managing items. It provides an interactive 
 1. Clone the repository: `git clone <repository-url>` `cd <repository-folder>`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
-4. Access the app at <http://localhost:5173>.
+4. Access the app at <http://localhost:5173> (by default).
 
 **Features**
 

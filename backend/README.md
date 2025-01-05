@@ -41,6 +41,7 @@ This is the backend service for managing items in a database. It provides a REST
 2. Install dependencies: `npm install`
 3. Setup the database:
     - Create a database in MySQL.
+    - Init sequelize: `npx sequelize-cli init`
     - Run the migrations: `npx sequelize-cli db:migrate`
     - Seed the database: `npx sequelize-cli db:seed:all`
 4. Start the server: `npm run dev`
